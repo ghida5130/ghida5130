@@ -3,6 +3,7 @@
 <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <!--
