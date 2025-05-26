@@ -1,6 +1,6 @@
 <h1 align="center">👋 안녕하세요. 프론트엔드 개발자 박성수 입니다.</h1>
 
----
+<br><br><br>
 
 ## Skills
 <div>
@@ -33,15 +33,17 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact&theme=transparent" />
 </p>
 
 ---
 
-## Link
+## Links
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghida5130@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://comma-bice.vercel.app/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://cstelladev.tistory.com/)
+
+![Most used languages](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
