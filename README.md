@@ -1,6 +1,6 @@
 <h1 align="center">👋 안녕하세요. 프론트엔드 개발자 박성수 입니다.</h1>
 
-##Skills
+## Skills
 <div>
   <h4>Language</h4>
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
@@ -34,37 +34,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact)
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=프론트엔드+개발자+준비중;Next.js+%2B+TypeScript+러버;성장을+즐기는+사람" alt="Typing SVG" />
-</p>
-
----
-
-## 🌱 현재 공부 중인 것들
-- 🚀 Next.js (App Router 14) + TypeScript
-- 🛠 Redux, React Query, Recoil
-- 💅 styled-components
-- 🌐 Express.js + API 연동
-- ⚡ SEO, 성능 최적화
-
 ---
 
 ## 📫 연락처
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@yourname)
-
----
-
-## 🎨 좋아하는 것들
-- 📚 독서 (『도시와 그 불확실한 벽』, 『소년이 온다』, 『채식주의자』 등)
-- 🎹 피아노 연주
-- 🏃‍♂️ 러닝 & 💪 웨이트
-- 🎮 스토리 좋은 게임
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghida5130@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://comma-bice.vercel.app/)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://cstelladev.tistory.com/)
 
 ---
 
