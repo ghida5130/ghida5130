@@ -1,6 +1,6 @@
+<br><br>
 <h1 align="center">👋 안녕하세요. 프론트엔드 개발자 박성수 입니다.</h1>
-
-<br><br><br>
+<br><br>
 
 ## Skills
 <div>
@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />&nbsp
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp
 </div>
-
+<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact&theme=transparent" />
 </p>
 
----
+<br><br>
 
 ## Links
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghida5130@gmail.com)
