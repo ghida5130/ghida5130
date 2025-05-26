@@ -3,7 +3,7 @@
 <h2>Skills</h3>
 <div>
   <h4>Language</h4>
-  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />&nbsp
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp
 </div>
 
-<h3>Study</h3>
+<h2>Study</h2>
 <div>
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />&nbsp
 </div>
 
-<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact)
 
 
 
