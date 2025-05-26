@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1>test</h1>
 <h2>Skills</h3>
 <div>
   <h4>Language</h4>
@@ -31,6 +31,59 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact)
+
+<h1 align="center">👋 안녕하세요! 저는 YourName 입니다</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=프론트엔드+개발자+준비중;Next.js+%2B+TypeScript+러버;성장을+즐기는+사람" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌱 현재 공부 중인 것들
+- 🚀 Next.js (App Router 14) + TypeScript
+- 🛠 Redux, React Query, Recoil
+- 💅 styled-components
+- 🌐 Express.js + API 연동
+- ⚡ SEO, 성능 최적화
+
+---
+
+## 🔨 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=transparent" alt="Your GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubID&theme=transparent" alt="Your GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=transparent" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 연락처
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@yourname)
+
+---
+
+## 🎨 좋아하는 것들
+- 📚 독서 (『도시와 그 불확실한 벽』, 『소년이 온다』, 『채식주의자』 등)
+- 🎹 피아노 연주
+- 🏃‍♂️ 러닝 & 💪 웨이트
+- 🎮 스토리 좋은 게임
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
+</p>
+
 
 
 
