@@ -1,6 +1,7 @@
-<br><br>
-<h1 align="center">👋 안녕하세요. 프론트엔드 개발자 박성수 입니다.</h1>
-<br><br>
+## 👋 Welcome to my Github
+#### Hi, I'm SeongSu Park, a FrontEnd Developer
+
+<br>
 
 ## Skills
 <div>
@@ -32,9 +33,10 @@
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp
 </div>
 <br><br>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact&theme=transparent)
 
-<br><br>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact&theme=nord)
+
+<br>
 
 ## Links
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghida5130@gmail.com)
