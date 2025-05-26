@@ -1,6 +1,6 @@
-## Hi there 👋
-<h1>test</h1>
-<h2>Skills</h3>
+<h1 align="center">👋 안녕하세요. 프론트엔드 개발자 박성수 입니다.</h1>
+
+##Skills
 <div>
   <h4>Language</h4>
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
@@ -30,9 +30,13 @@
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact)
 
-<h1 align="center">👋 안녕하세요! 저는 YourName 입니다</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=프론트엔드+개발자+준비중;Next.js+%2B+TypeScript+러버;성장을+즐기는+사람" alt="Typing SVG" />
@@ -46,22 +50,6 @@
 - 💅 styled-components
 - 🌐 Express.js + API 연동
 - ⚡ SEO, 성능 최적화
-
----
-
-## 🔨 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=transparent" alt="Your GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubID&theme=transparent" alt="Your GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
 
 ---
 
