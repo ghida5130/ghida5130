@@ -32,9 +32,7 @@
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp
 </div>
 <br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact&theme=transparent" />
-</p>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact&theme=transparent)
 
 <br><br>
 
@@ -43,7 +41,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://comma-bice.vercel.app/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://cstelladev.tistory.com/)
 
-![Most used languages](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
