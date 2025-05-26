@@ -5,12 +5,12 @@
   <h4>Language</h4>
   <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
   <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />&nbsp
 </div>
 
 <div>
   <h4>Front-End</h4>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/Redux-20232a.svg?style=for-the-badge&logo=redux&logoColor=764ABC" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-20232a.svg?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Tanstack Query-20232a.svg?style=for-the-badge&logo=reactquery&logoColor=FF4154" />&nbsp
@@ -25,16 +25,9 @@
 
 <div>
   <h4>Back-End</h4>
+  <img src="https://img.shields.io/badge/express.js-20232a.svg?style=for-the-badge&logo=express&logoColor=000000" />&nbsp
   <img src="https://img.shields.io/badge/firebase-20232a.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00" />&nbsp
   <img src="https://img.shields.io/badge/mongodb-20232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" />&nbsp
-</div>
-
-<h2>Study</h2>
-<div>
-  <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />&nbsp
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghida5130&layout=compact)
