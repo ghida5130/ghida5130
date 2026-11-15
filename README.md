@@ -1,4 +1,4 @@
-# 👋 GitHub에 오신 것을 환영합니다
+# 👋 안녕하세요
 
 사용자가 겪는 문제를 분석하고 기술을 통해 개선하는 **프론트엔드 개발자**입니다.
 
@@ -63,19 +63,9 @@
 
 ## 📚 교육 및 활동
 
-- **삼성 청년 SW AI 아카데미(SSAFY) 15기 Java반:** Java와 Spring Boot 및 데이터베이스를 학습하고 팀 프로젝트를 수행했습니다.
+- **삼성 청년 SW AI 아카데미(SSAFY):** Java와 Spring Boot 및 데이터베이스를 학습하고 팀 프로젝트를 수행했습니다.
 - **대구대학교 AIS 소프트웨어 및 창업동아리:** 기술 세미나와 프로젝트 단계별 점검 체계를 운영했습니다. 재학 중 다양한 개발 및 아이디어 공모전에서 **총 15건을 수상**했습니다.
 - **로컬 AI 메이커스랩:** 사회적기업의 협업 업무를 지원하는 AI 기반 B2B 서비스를 개발하고 **최우수상(전체 2위)**을 수상했습니다.
-
-## 📊 공개 저장소 사용 언어
-
-<!-- .github/workflows/profile-cards.yml에서 자동 생성 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-  <img src="./assets/languages.light.svg" alt="공개 GitHub 저장소의 언어 사용 비율" width="100%" />
-</picture>
-
-> 공개 저장소의 언어별 코드 용량을 기준으로 한 통계이며 언어 숙련도를 의미하지 않습니다.
 
 ## 🔗 연락처 및 링크
 
