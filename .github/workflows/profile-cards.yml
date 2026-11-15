@@ -1,0 +1,31 @@
+name: Update Profile Language Card
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/workflows/profile-cards.yml
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 1' # Every Monday, 12:00 KST (03:00 UTC)
+
+permissions:
+  contents: write
+
+jobs:
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate language card
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ghida5130
+          cards: languages
+          output-dir: assets
+          themes: light,dark
+          language-limit: '8'
+          commit: true
