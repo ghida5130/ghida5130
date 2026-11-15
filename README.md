@@ -1,5 +1,4 @@
 ## 👋 Welcome to my Github
-#### Hi, I'm SeongSu Park, a FrontEnd Developer
 
 <br>
 
